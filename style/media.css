@@ -1,0 +1,10 @@
+@media screen and (max-width: 1400px) {
+    .infoBlock .infoBlock_p{
+        font-size: 10px;
+    }
+}
+@media screen and (max-width: 560px) {
+    .infoBlock .infoBlock_p{
+        font-size: 7px;
+    }
+}
